@@ -59,6 +59,7 @@ Clone the `asv_wave_sim` repository:
 ```bash
 cd ~/gz_ws/src
 git clone https://github.com/srmainwaring/asv_wave_sim.git
+cd asv_wave_sim
 ```
 
 Compile the package:
